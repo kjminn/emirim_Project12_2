@@ -1,0 +1,2 @@
+rootProject.name = "emirim_Project12_2"
+include ':app'
